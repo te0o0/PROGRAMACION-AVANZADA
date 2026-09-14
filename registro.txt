@@ -1,0 +1,37 @@
+__Registro__
+Nombre del usuario: mateo
+Carro: ford
+Kilometraje: 98 km
+
+
+__Registro__
+Nombre del usuario: fabian
+Carro: subaru
+Kilometraje: 9 km
+
+
+__Registro__
+Nombre del usuario: julian
+Carro: nissan
+Kilometraje: 54 km
+
+
+__Registro__
+Nombre del usuario: mateo
+Carro: ford
+Kilometraje: 98 km
+
+
+__Registro__Nombre del usuario: lauraCarro: ford raptorKilometraje: 432 km
+__Registro__
+Nombre del usuario: sebastian
+Carro: kia
+Kilometraje: 900 km
+
+
+__Registro__
+Nombre del usuario: sofia
+Carro: lamborrghini
+Kilometraje: 45 km
+
+
